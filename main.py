@@ -10,9 +10,9 @@ import os
 import sys
 
 ENTRY = (
-    "I can't come in today — my building is being fumigated and the "
-    "exterminator said the gas makes people 'chatty and honest,' so I'm "
-    "staying home before I tell HR what I really think."
+    "I can't come in today — I ironed my shirt while I was still wearing "
+    "it, so now I'm at urgent care explaining my life choices to a very "
+    "tired nurse."
 )
 
 MAX_CHARS = 199
