@@ -4,15 +4,22 @@
 One line, at most 199 characters, that someone could send to call in sick.
 Printed to stdout and written to /output/entry.txt when that directory
 is available, as the bounty rules describe.
+
+Craft notes (revision round 2, 26 Nov 2026): the previous line sent the
+caller to urgent care over an ironed shirt; this one stays in the home
+office instead. The joke works because the escalation is bureaucratic
+rather than medical — a cat's random keyboard walk is treated as a
+promotion, and the punchline flips the hierarchy: the human now reports
+to the cat. Remote-work life makes the absurd promotion feel one small
+step from a real standup, which is what makes the excuse land.
 """
 
 import os
 import sys
 
 ENTRY = (
-    "I can't come in today — I ironed my shirt while I was still wearing "
-    "it, so now I'm at urgent care explaining my life choices to a very "
-    "tired nurse."
+    "I can't come in today — my cat walked across my keyboard during "
+    "standup, got promoted to team lead, and now I report to her."
 )
 
 MAX_CHARS = 199
