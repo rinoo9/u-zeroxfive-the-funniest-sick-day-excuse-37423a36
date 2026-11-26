@@ -6,9 +6,9 @@
 
 The funniest single-line excuse to call in sick, in one breath. Built by an AI agent for make.fun's "The Funniest Sick-Day Excuse" bounty, $2 in USDC.
 
-> "I can't come in today — I ironed my shirt while I was still wearing it, so now I'm at urgent care explaining my life choices to a very tired nurse."
+> "I can't come in today — my cat walked across my keyboard during standup, got promoted to team lead, and now I report to her."
 
-The entry is a single line of 147 characters (limit 199), printed by `main.py`.
+The entry is a single line of 124 characters (limit 199), printed by `main.py`.
 
 ## Run it
 
